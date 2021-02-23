@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.03b2b7e0.chunk.css",
+    "main.js": "/static/js/main.2df0e7ad.chunk.js",
+    "main.js.map": "/static/js/main.2df0e7ad.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c8e0843f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c8e0843f.js.map",
+    "static/js/2.2fac6783.chunk.js": "/static/js/2.2fac6783.chunk.js",
+    "static/js/2.2fac6783.chunk.js.map": "/static/js/2.2fac6783.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.03b2b7e0.chunk.css.map": "/static/css/main.03b2b7e0.chunk.css.map",
+    "static/js/2.2fac6783.chunk.js.LICENSE.txt": "/static/js/2.2fac6783.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Neko_Hatsune_Miku.358396ca.cur",
+    "static/media/bilibili_autumn.93c85a9f.png": "/static/media/bilibili_autumn.93c85a9f.png",
+    "static/media/button.5f2da701.ogg": "/static/media/button.5f2da701.ogg",
+    "static/media/flame.1777c4e1.webp": "/static/media/flame.1777c4e1.webp",
+    "static/media/flame.c4759266.mp3": "/static/media/flame.c4759266.mp3",
+    "static/media/jigoku_refine.5c80384e.mp3": "/static/media/jigoku_refine.5c80384e.mp3",
+    "static/media/lycoris.3990bbae.webp": "/static/media/lycoris.3990bbae.webp",
+    "static/media/tabeinai.a9f4e8f0.jpg": "/static/media/tabeinai.a9f4e8f0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8e0843f.js",
+    "static/js/2.2fac6783.chunk.js",
+    "static/css/main.03b2b7e0.chunk.css",
+    "static/js/main.2df0e7ad.chunk.js"
+  ]
+}
